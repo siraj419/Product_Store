@@ -1,0 +1,24 @@
+{
+  "name": "product_store",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siraj419/Product_Store.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siraj419/Product_Store/issues"
+  },
+  "homepage": "https://github.com/siraj419/Product_Store#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mogoose": "^0.0.1-security"
+  }
+}
